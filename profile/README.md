@@ -1,4 +1,4 @@
-<p align="center"><a href="https://sites.google.com/view/oliveos/home?authuser=0" target="_blank" rel="noopener noreferrer"><img width="100" src="https://github.com/OliveOS-Fin/old/raw/main/logo.gif" alt="Logo"><img height="100" width="auto" src="https://cdn.discordapp.com/attachments/901369443718926357/990300849727217694/image2vector_1.svg"></a></p>
+<p align="center"><a href="https://sites.google.com/view/oliveos/home?authuser=0" target="_blank" rel="noopener noreferrer"><img width="100" src="https://raw.githubusercontent.com/OliveOS-Fin/old/main/logo.gif?token=GHSAT0AAAAAABV6I6KHEUQ4YEQNACUYVN2WYVYOORA" alt="Logo"><img height="100" width="auto" src="https://cdn.discordapp.com/attachments/901369443718926357/990300849727217694/image2vector_1.svg"></a></p>
 
 <p align="center">
   <a href="https://circleci.com/gh/OliveOS-Fin/OliveOS/tree/dev"><img src="https://img.shields.io/circleci/project/github/OliveOS-Fin/OliveOS/dev.svg?sanitize=true" alt="Build Status"></a>
