@@ -10,6 +10,12 @@
 <h2 align="center">OliveOS</h2>
 🫒 OliveOS is a fast, "Gaming" Operating System made from XNU including lots of amazing apps!
 
+## System Requirements
 
+ - 8 GB of RAM
+ - x86_64 processor or a Apple chip<a href="oliveos-fin.github.io/processors#arm64">*</a>
+ - A 420p Display
 
+## Download, Installaation, and Setup
 
+Sorry, but OliveOS isin't released to the public yet, come hereillä later!
