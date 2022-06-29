@@ -8,5 +8,8 @@
 </p>
 
 <h2 align="center">OliveOS</h2>
+🫒 OliveOS is a fast, "Gaming" Operating System made from XNU including lots of amazing apps!
+
+
 
 
