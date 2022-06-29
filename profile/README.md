@@ -16,6 +16,6 @@
  - x86_64 processor or a Apple chip<a href="oliveos-fin.github.io/processors#arm64">*</a>
  - A 420p Display
 
-## Download, Installaation, and Setup
+## Download, Installation, and Setup
 
-Sorry, but OliveOS isin't released to the public yet, come hereillä later!
+Sorry, but OliveOS is not released to the public yet, come hereillä later!
