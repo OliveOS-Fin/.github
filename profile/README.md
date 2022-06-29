@@ -18,4 +18,4 @@
 
 ## Download, Installation, and Setup
 
-Sorry, but OliveOS is not released to the public yet, come hereillä later!
+Sorry, but OliveOS is not released to the public yet, come here later!
