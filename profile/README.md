@@ -14,7 +14,7 @@
 ## System Requirements
 
  - 8 GB of RAM
- - x86_64 processor or a Apple chip<a href="oliveos-fin.github.io/processors#arm64">*</a>
+ - x86_64 processor or a Apple chip<a href="https://oliveos-fin.github.io/processors#arm64">*</a>
  - A 420p Display
 
 ## Download, Installation, and Setup
