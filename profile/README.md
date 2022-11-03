@@ -1,4 +1,5 @@
-<p align="center"><a href="https://sites.google.com/view/oliveos/home?authuser=0" target="_blank" rel="noopener noreferrer"><img width="100" src="https://raw.githubusercontent.com/OliveOS-Fin/.github/main/profile/logo.gif" alt="Logo"><img height="100" width="auto" src="https://cdn.discordapp.com/attachments/901369443718926357/990300849727217694/image2vector_1.svg"></a></p>
+<p align="center"><a href="https://sites.google.com/view/oliveos/home?authuser=0" target="_blank" rel="noopener noreferrer"><img width="100" src="https://github.com/OliveOS-Fin/OliveOS/raw/main/logo.gif" alt="Logo"></a>
+<a href="https://sites.google.com/view/oliveos/home?authuser=0" target="_blank" rel="noopener noreferrer"><img height="100" width="auto" src="https://cdn.discordapp.com/attachments/901369443718926357/990300849727217694/image2vector_1.svg"></a></p>
 
 <p align="center">
   <a href="https://github.com/OliveOS-Fin/Download/releases/latest"><img src="https://img.shields.io/github/downloads/OliveOS-Fin/Download/total?label=GitHub%20downloads" alt="Downloads"></a> <a href="https://discord.gg/pgwhr4YVFY"><img src="https://img.shields.io/discord/991639571198660679" alt="Discord"></a>
